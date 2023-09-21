@@ -11,6 +11,7 @@ float64(6), int64(5), object(8)
   ![image](https://github.com/Noks06/Prediction-of-Stroke-and-Car-insurance-/blob/main/speedingandpastaccidents.png)
 
 The above graph show that speeding is the driving factor of accidents, as the graph clearly stats that more speeding violation causes more accidents that will lead to claiming from insurance.As the graph shows 18 speeding violation has a whooping more than 8 accidents. 
+![image].(https://github.com/Noks06/Prediction-of-Stroke-and-Car-insurance-/blob/main/Driving%20under%20the%20influence.png)
 They should include visualizations AND written interpretations
 
 The metrics for your best model
