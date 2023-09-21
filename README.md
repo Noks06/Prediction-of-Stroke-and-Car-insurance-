@@ -8,8 +8,8 @@ The data was sourced from Kaggle website,  https://www.kaggle.com/datasets
 Original dataset consist of 10000 rows, after droping the duplicate rows came down to 9229 and 19 columns.It has
 float64(6), int64(5), object(8)
 ## analytical insights from your data analysis.
-  ![image]()
-You can use the 2 plots from Project 2, part 3 for this!
+  ![image](https://github.com/Noks06/Prediction-of-Stroke-and-Car-insurance-/blob/main/speedingandpastaccidents.png)
+
 
 They should include visualizations AND written interpretations
 
