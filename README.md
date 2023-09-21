@@ -12,7 +12,7 @@ float64(6), int64(5), object(8)
 
 The above graph show that speeding is the driving factor of accidents, as the graph clearly stats that more speeding violation causes more accidents that will lead to claiming from insurance.As the graph shows 18 speeding violation has a whooping more than 8 accidents. 
 
-![image](https://github.com/Noks06/Prediction-of-Stroke-and-Car-insurance-/blob/main/Driving%20under%20the%20influence.png)
+  ![image](https://github.com/Noks06/Prediction-of-Stroke-and-Car-insurance-/blob/main/Driving%20under%20the%20influence.png)
 
 The graph above has shown that married people are more likely to drive under the influence of a substance.There are many factors that lead to them taking the substance, it could be a circumstances that most married people are facing.
 
