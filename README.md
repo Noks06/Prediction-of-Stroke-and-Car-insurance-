@@ -23,6 +23,10 @@ A description of how well your model would solve your business problem
 Logistic Regression model has the highest accuracy prediction of 83 percent and it has correctly predicted that 428 client will claim from insurance with the low of 
 137 that were predicted to have claim when they did not claim. Again with 250 that were predicted not going to claim , unfortunately they did claim.with low result 
 of FP and FN the model will do better job on prediction with little  help of hyper tune the parameters.
+
+  ![image](https://github.com/Noks06/Prediction-of-Stroke-and-Car-insurance-/blob/main/Random%20ForestWith%20PCA.png)
+
+  
  
 
 A summary with at least 2 recommendations for your stakeholders, based on your model performance AND analytical findings.
