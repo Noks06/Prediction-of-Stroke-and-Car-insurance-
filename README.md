@@ -31,3 +31,4 @@ KNearestNeighbour is another model that came close to Logistic Regression predic
 
 ## A summary with a recommendations
 I would recommend two models and those are Logistic Regression and KNearestNeighbour, both of these model showed accuracy of their prediction to be 83 and 81 percent respectively on their test set with lower False Negetive of 250 and 259 respectively, where clients were predicted that they will not take up claim but they actually did. Having lower False Negetive on will actually portrail good result to the cumpany.
+For any queries please contanct Nokuthula Mchunu at nokuthula.mchunu@momentum.co.za
