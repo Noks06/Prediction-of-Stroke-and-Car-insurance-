@@ -17,7 +17,7 @@ The above graph show that speeding is the driving factor of accidents, as the gr
 The graph above has shown that married people are more likely to drive under the influence of a substance.There are many factors that lead to them taking the substance, it could be a circumstances that most married people are facing, family obligation.
 
 The metrics for your best model
-  ![image]((https://github.com/Noks06/Prediction-of-Stroke-and-Car-insurance-/blob/main/KNN%20with%20Grid.png))
+  ![image](https://github.com/Noks06/Prediction-of-Stroke-and-Car-insurance-/blob/main/Logistic%20Regression%20with%20Grid.png)
 A description of how well your model would solve your business problem
 
 Logistic Regression model has the highest accuracy prediction of 83 percent and it has correctly predicted that 428 client will claim from insurance with the low of 
