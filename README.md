@@ -18,7 +18,7 @@ The graph above has shown that married people are more likely to drive under the
 
 The metrics for your best model
   ![image](https://github.com/Noks06/Prediction-of-Stroke-and-Car-insurance-/blob/main/Logistic%20Regression%20with%20Grid.png)
-A description of how well your model would solve your business problem
+
 
 Logistic Regression model has the highest accuracy prediction of 83 percent and it has correctly predicted that 428 client will claim from insurance with the low of 
 137 that were predicted to have claim when they did not claim. Again with 250 that were predicted not going to claim , unfortunately they did claim.with low result 
@@ -27,4 +27,5 @@ of FP and FN the model will do better job on prediction with little  help of hyp
 
   ![image](https://github.com/Noks06/Prediction-of-Stroke-and-Car-insurance-/blob/main/KNN%20with%20Grid.png)
 
- Random Forest is another model that came close to Logistic Regression predictions  
+
+KNearestNeighbour is another model that came close to Logistic Regression predictions with 81 percent accuracy, The model predicted correctly that 1443 clients will not claim and 419 will claim, with 189 that were predicted to claim but they did not claim and 259 that were predicted to not claim but they actually did claim.  
