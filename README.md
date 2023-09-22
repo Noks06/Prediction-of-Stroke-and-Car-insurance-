@@ -25,6 +25,6 @@ Logistic Regression model has the highest accuracy prediction of 83 percent and 
 of FP and FN the model will do better job on prediction with little  help of hyper tune the parameters.
 
 
-  ![image](https://github.com/Noks06/Prediction-of-Stroke-and-Car-insurance-/blob/main/Random%20ForestWith%20PCA.png)
+  ![image](https://github.com/Noks06/Prediction-of-Stroke-and-Car-insurance-/blob/main/KNN%20with%20Grid.png)
 
  Random Forest is another model that came close to Logistic Regression predictions  
