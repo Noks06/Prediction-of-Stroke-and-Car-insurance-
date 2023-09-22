@@ -27,5 +27,4 @@ of FP and FN the model will do better job on prediction with little  help of hyp
 
   ![image](https://github.com/Noks06/Prediction-of-Stroke-and-Car-insurance-/blob/main/KNN%20with%20Grid.png)
 
-
 KNearestNeighbour is another model that came close to Logistic Regression predictions with 81 percent accuracy, The model predicted correctly that 1443 clients will not claim and 419 will claim, with 189 that were predicted to claim but they did not claim and 259 that were predicted to not claim but they actually did claim.  
