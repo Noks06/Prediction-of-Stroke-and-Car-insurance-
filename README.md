@@ -1,4 +1,4 @@
-# Prediction-of-Car-insurance
+ # Prediction-of-Car-insurance
 The Business and the Stakeholders wants to determin the likelyhood of a client to claim from insurance
 
 ## The source of the data
@@ -14,7 +14,7 @@ The above graph show that speeding is the driving factor of accidents, as the gr
 
   ![image](https://github.com/Noks06/Prediction-of-Stroke-and-Car-insurance-/blob/main/Driving%20under%20the%20influence.png)
 
-The graph above has shown that married people are more likely to drive under the influence of a substance.There are many factors that lead to them taking the substance, it could be a circumstances that most married people are facing.
+The graph above has shown that married people are more likely to drive under the influence of a substance.There are many factors that lead to them taking the substance, it could be a circumstances that most married people are facing, family obligation.
 
 The metrics for your best model
 
